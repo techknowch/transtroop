@@ -91,7 +91,7 @@
 		<div class="offcanvas__content">
 			<div class="offcanvas__top d-flex justify-content-between align-items-center">
 				<div class="offcanvas__logo">
-					<a href="index.html">
+					<a href="{{ route('home') }}">
 						<img src="assets/images/logo/ts_logo.png" alt="logo not found">
 					</a>
 				</div>
@@ -126,7 +126,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-2 col-md-6 col-sm-2">
 						<div class="st-header-logo">
-							<a href="index.html"><img src="assets/images/logo/ts_logo.png" alt="logo not found"></a>
+							<a href="{{ route('home') }}"><img src="assets/images/logo/ts_logo.png" alt="logo not found"></a>
 						</div>
 					</div>
 					<div class="col-lg-10 col-md-6 col-sm-10">
@@ -136,26 +136,26 @@
 									<ul>
 										<li><a href="#"> Home <i class="bi bi-chevron-down"></i> </a>
 											<ul class="sub__menu">
-												<li><a href="index.html">Home One</a></li>
-												<li><a href="index-two.html">Home Two</a></li>
+												<li><a href="{{ route('home') }}">Home</a></li>
+												<!-- <li><a href="index-two.html">Home Two</a></li>
 												<li><a href="index-dark.html">Home Dark</a></li>
-												<li><a href="index-two-dark.html">Home Dark Two</a></li>
+												<li><a href="index-two-dark.html">Home Dark Two</a></li> -->
 											</ul>
 										</li>
-										<li><a href="about-us.html"> About <i class="bi bi-chevron-down"></i> </a>
+										<li><a href="{{ route('about') }}"> About <i class="bi bi-chevron-down"></i> </a>
 											<ul class="sub__menu">
-												<li><a href="about-us.html">About Light</a></li>
-												<li><a href="about-us-dark.html">About Dark</a></li>
+												<li><a href="{{ route('about') }}">About</a></li>
+												<!-- <li><a href="about-us-dark.html">About Dark</a></li> -->
 											</ul>
 										</li>
-										<li><a href="service.html"> Services <i class="bi bi-chevron-down"></i> </a>
+										<li><a href="{{ route('services') }}"> Services <i class="bi bi-chevron-down"></i> </a>
 											<ul class="sub__menu">
-												<li><a href="service.html">Service Light </a></li>
-												<li><a href="service-dark.html">Service Dark </a></li>
-												<li><a href="service-details.html">Service Details</a></li>
+												<li><a href="{{ route('services') }}">Service </a></li>
+												<!-- <li><a href="service-dark.html">Service Dark </a></li>
+												<li><a href="service-details.html">Service Details</a></li> -->
 											</ul>
 										</li>
-										<li><a href="#"> Pages <i class="bi bi-chevron-down"></i> </a>
+										<!-- <li><a href="#"> Pages <i class="bi bi-chevron-down"></i> </a>
 											<ul class="sub__menu">
 												<li><a href="team.html">Team</a></li>
 												<li><a href="team-dark.html">Team Dark</a></li>
@@ -168,18 +168,18 @@
 												<li><a href="404.html">404 Page</a></li>
 												<li><a href="404-dark.html">404 Page Dark</a></li>
 											</ul>
-										</li>
-										<li><a href="blog-standard.html"> News <i class="bi bi-chevron-down"></i> </a>
+										</li> -->
+										<!-- <li><a href="blog-standard.html"> News <i class="bi bi-chevron-down"></i> </a>
 											<ul class="sub__menu">
 												<li><a href="blog-standard.html">Blog Standard</a></li>
 												<li><a href="blog-standard-dark.html">Blog Standard Dark</a></li>
 												<li><a href="blog-details.html">Blog Details</a></li>
 											</ul>
-										</li>
-										<li><a href="contact-us.html"> Contacts <i class="bi bi-chevron-down"></i> </a>
+										</li> -->
+										<li><a href="{{ route('contact') }}"> Contacts <i class="bi bi-chevron-down"></i> </a>
 											<ul class="sub__menu">
-												<li><a href="contact-us.html">Contact</a></li>
-												<li><a href="contact-us-dark.html">Contact Dark</a></li>
+												<li><a href="{{ route('contact') }}">Contact</a></li>
+												<!-- <li><a href="contact-us-dark.html">Contact Dark</a></li> -->
 											</ul>
 										</li>
 									</ul>

@@ -47,10 +47,8 @@
 						<img src="assets/images/feature/icon1.png" alt="">
 					</div>
 					<div class="st__feature__content">
-						<h2>Transparent Pricing</h2>
-						<p>Appropriately enhance principle-cent 
-							standards in platforms. Credibly orch
-							popular services.</p>
+						<h2>Highest Paying Rates Negotiation</h2>
+						<p>We ensure you get the best rates available by negotiating on your behalf, maximizing your earnings with every load.</p>
 							<span class="line"></span>
 					</div>
 				</div>				
@@ -59,10 +57,8 @@
 						<img src="assets/images/feature/icon2.png" alt="">
 					</div>
 					<div class="st__feature__content">
-						<h2>Packaging Distri</h2>
-						<p>Appropriately enhance principle-cent 
-							standards in platforms. Credibly orch
-							popular services.</p>
+						<h2>Advance Load Booking</h2>
+						<p>Secure your loads 2-3 days in advance, giving you the advantage of planning your routes and managing your time efficiently.</p>
 							<span class="line"></span>
 					</div>
 				</div>				
@@ -71,10 +67,8 @@
 						<img src="assets/images/feature/icon3.png" alt="">
 					</div>
 					<div class="st__feature__content">
-						<h2>Real Time Tracking</h2>
-						<p>Appropriately enhance principle-cent 
-							standards in platforms. Credibly orch
-							popular services.</p>
+						<h2>No Forced Load Policy</h2>
+						<p>You have full control over the loads you take, with no obligation to accept any freight that doesn't align with your preferences.</p>
 							<span class="line"></span>
 					</div>
 				</div>				
@@ -83,10 +77,8 @@
 						<img src="assets/images/feature/icon4.png" alt="">
 					</div>
 					<div class="st__feature__content">
-						<h2>Warehoues Storage</h2>
-						<p>Appropriately enhance principle-cent 
-							standards in platforms. Credibly orch
-							popular services.</p>
+						<h2>Direct Broker Communication</h2>
+						<p>Enjoy transparent and direct communication with brokers, ensuring clarity and minimizing misunderstandings.</p>
 							<span class="line"></span>
 					</div>
 				</div>
@@ -95,10 +87,48 @@
 						<img src="assets/images/feature/icon2.png" alt="">
 					</div>
 					<div class="st__feature__content">
-						<h2>Packaging Distri</h2>
-						<p>Appropriately enhance principle-cent 
-							standards in platforms. Credibly orch
-							popular services.</p>
+						<h2>Comprehensive Broker Setup Management</h2>
+						<p>We manage all your broker setup packets, streamlining the process so you can focus on driving.</p>
+							<span class="line"></span>
+					</div>
+				</div>
+				<div class="st__feature__box wow fadeInUp">
+					<div class="st__feature__icon">
+						<img src="assets/images/feature/icon2.png" alt="">
+					</div>
+					<div class="st__feature__content">
+						<h2>Handling of Lumper, TONU, and Detention Fees</h2>
+						<p>We take care of all associated fees, including lumper, TONU, and detention, ensuring smooth operations without unexpected costs.</p>
+							<span class="line"></span>
+					</div>
+				</div>
+				<div class="st__feature__box wow fadeInUp">
+					<div class="st__feature__icon">
+						<img src="assets/images/feature/icon2.png" alt="">
+					</div>
+					<div class="st__feature__content">
+						<h2>Dedicated Dispatcher for Your Fleet</h2>
+						<p>A dedicated dispatcher is assigned to your fleet, providing personalized support and efficient management of your loads.</p>
+							<span class="line"></span>
+					</div>
+				</div>
+				<div class="st__feature__box wow fadeInUp">
+					<div class="st__feature__icon">
+						<img src="assets/images/feature/icon2.png" alt="">
+					</div>
+					<div class="st__feature__content">
+						<h2>Flexible Area Selection</h2>
+						<p>You choose the areas you prefer to serve, allowing you to optimize your routes based on your comfort and profitability.</p>
+							<span class="line"></span>
+					</div>
+				</div>
+				<div class="st__feature__box wow fadeInUp">
+					<div class="st__feature__icon">
+						<img src="assets/images/feature/icon2.png" alt="">
+					</div>
+					<div class="st__feature__content">
+						<h2>Your Premier Truck Dispatch Partner</h2>
+						<p>Partner with us for top-tier dispatch services, ensuring your trucking operations run smoothly and profitably.</p>
 							<span class="line"></span>
 					</div>
 				</div>

@@ -211,7 +211,7 @@
 						</div>
 					</div>
 					<div class="st__service__content">
-						<span> Tracking </span>
+						<span> Dry Van / Reefer </span>
 						<h2> <a href="service-details.html"> Transport by Road </a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
@@ -228,7 +228,7 @@
 						</div>
 					</div>
 					<div class="st__service__content">
-						<span> Tracking </span>
+						<span> Power Only </span>
 						<h2> <a href="service-details.html"> Safety Garunteed </a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
@@ -245,7 +245,41 @@
 						</div>
 					</div>
 					<div class="st__service__content">
-						<span> Tracking </span>
+						<span> Hotshot </span>
+						<h2> <a href="service-details.html"> Managing logistics for </a> </h2>
+						<div class="st__service__btn">
+							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6">
+				<div class="st__service__box wow fadeInUp p-relative">
+					<div class="st__service__thumb">
+						<img src="assets/images/service/service3.jpg" alt="">
+						<div class="st__service__icon">
+							<img src="assets/images/service/icon3.png" alt="">
+						</div>
+					</div>
+					<div class="st__service__content">
+						<span> Box Truck </span>
+						<h2> <a href="service-details.html"> Managing logistics for </a> </h2>
+						<div class="st__service__btn">
+							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6">
+				<div class="st__service__box wow fadeInUp p-relative">
+					<div class="st__service__thumb">
+						<img src="assets/images/service/service3.jpg" alt="">
+						<div class="st__service__icon">
+							<img src="assets/images/service/icon3.png" alt="">
+						</div>
+					</div>
+					<div class="st__service__content">
+						<span> RGN </span>
 						<h2> <a href="service-details.html"> Managing logistics for </a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>

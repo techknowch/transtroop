@@ -11,9 +11,8 @@
 				<div class="col-lg-12">
 					<div class="slider-content">
 						<h5>We Specialise in the transportation</h5>
-						<h1>Experience The Best <br> Logistic & Transport</h1>
-						<p>Cursus in hac habitasse platea dictumst. Interdum consectetur libero id faucibus nisl tincidunt 
-							eget. Dui vivamus arcu felis bibendum ut tristique et egestas quis.</p>
+						<h1>TransTroop: Your Trusted <br> Dispatching Partner</h1>
+						<p>At TransTroop, we specialize in providing top-tier dispatching services tailored to meet the diverse needs of your trucking business. Whether you operate a flatbed, dry van, reefer, step deck, or RGN, we have the expertise and resources to keep your fleet running smoothly and profitably.</p>
 						<a class="st__btn mt-40" href="service-details.html"> More Details <i class="bi bi-arrow-right"></i> </a>
 					</div>
 				</div>
@@ -28,8 +27,7 @@
 					<div class="slider-content">
 						<h5>We Specialise in the transportation</h5>
 						<h1>Experience The Best <br> Logistic & Transport</h1>
-						<p>Cursus in hac habitasse platea dictumst. Interdum consectetur libero id faucibus nisl tincidunt 
-							eget. Dui vivamus arcu felis bibendum ut tristique et egestas quis.</p>
+						<p>At TransTroop, we’re more than just a dispatch service; we’re your partner in success. Our team is dedicated to finding the best freight opportunities that align with your business goals. With a commitment to transparency, reliability, and 24/7 support, we work tirelessly to keep your trucks moving and your revenue growing.</p>
 						<a class="st__btn mt-40" href="service-details.html"> More Details <i class="bi bi-arrow-right"></i> </a>
 					</div>
 				</div>

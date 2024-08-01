@@ -192,7 +192,7 @@
 <!-- ST Service Area -->
 <div class="st-service-area pt-100 pb-80">
 	<div class="container">
-		<div class="row">
+		<div class="row justify-center">
 			<div class="col-lg-12">
 				<div class="st__section__title mb-50 text-center wow fadeInUp">
 					<h5> Types of Loglstice </h5>
@@ -251,7 +251,6 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-4 col-md-6"></div>
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">

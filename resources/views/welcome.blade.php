@@ -251,6 +251,7 @@
 					</div>
 				</div>
 			</div>
+			<div class="col-lg-4 col-md-6"></div>
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">

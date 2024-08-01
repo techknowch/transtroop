@@ -632,7 +632,7 @@
 	</div>
 </div>
 <!-- ST Blog Area -->
-<div class="st-blog-area pb-100">
+<!-- <div class="st-blog-area pb-100">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -727,9 +727,9 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!-- ST Brand Area -->
-<div class="st-brand-area pb-120">
+<!-- <div class="st-brand-area pb-120">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -744,7 +744,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 
 @endsection

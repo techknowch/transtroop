@@ -345,11 +345,11 @@
 						</div>
 						<div class="st__testi__content">
 							<h2>Darrell Steward</h2>
-							<span>Dramatically enhance</span>
+							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
 					<div class="st__testi__desc">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse</p>
+						<p>If it wasn't for Trans Troop, my trucking business wouldn't be where it is today. Their dispatch service makes my business run smoothly. They consistently book $3+ per mile loads for my OTR drivers. I highly recommend their services to anyone looking to outsource their dispatching.</p>
 					</div>
 					<div class="st__testi_quote">
 						<i class="bi bi-quote"></i>

@@ -296,7 +296,7 @@
 				<div class="st__section__title mb-50 text-center wow fadeInUp">
 					<h5> What Our Clients </h5>
 					<span class="circle"></span>
-					<h1>Stories From Our Users</h1>
+					<h1>Stories From Our Clinets</h1>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6">
@@ -306,12 +306,12 @@
 							<img src="assets/images/testimonial/t1.png" alt="">
 						</div>
 						<div class="st__testi__content">
-							<h2>Sahinur Islam</h2>
-							<span>Dramatically enhance</span>
+							<h2>Dave Simmons</h2>
+							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
 					<div class="st__testi__desc">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse</p>
+						<p>I am an owner-operator with a very picky personality, and I want the best loads all the time. I’ve worked with Trans Troop for over a year now, and they continue to deliver the best dispatching service. I always have loads ready to pick right after my morning drops. If it wasn’t for them, I would still be stressed out trying to book my own loads. Highly recommend them!</p>
 					</div>
 					<div class="st__testi_quote">
 						<i class="bi bi-quote"></i>
@@ -326,11 +326,11 @@
 						</div>
 						<div class="st__testi__content">
 							<h2>Madriya Merin</h2>
-							<span>Dramatically enhance</span>
+							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
 					<div class="st__testi__desc">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse</p>
+						<p>They know how to pick and choose the best loads for my drivers. I've worked with many truck dispatch service companies, and none of them cared for my company as much as Trans Troop. They reduced so much stress and headaches for me. My drivers are happy with these guys. They are getting me amazing rates and lanes. Even in this tough market, we're still making good gross. Wish I had found them sooner!</p>
 					</div>
 					<div class="st__testi_quote">
 						<i class="bi bi-quote"></i>

@@ -203,7 +203,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/truck 1.jpg" alt="">
+						<img src="assets/images/service/truck 1.jpeg" alt="">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon1.png" alt="">
 						</div>
@@ -220,7 +220,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/truck 4.jpg" alt="">
+						<img src="assets/images/service/truck 4.jpeg" alt="">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon2.png" alt="">
 						</div>
@@ -254,7 +254,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/truck 5.jpg" alt="">
+						<img src="assets/images/service/truck 5.jpeg" alt="">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon3.png" alt="">
 						</div>

@@ -203,7 +203,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/service1.jpg" alt="">
+						<img src="assets/images/service/truck 1.jpg" alt="">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon1.png" alt="">
 						</div>
@@ -212,7 +212,7 @@
 						<span> Dry Van / Reefer </span>
 						<h2> <a href="service-details.html"> Transport by Road </a> </h2>
 						<div class="st__service__btn">
-							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
+							<a href="#"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
 					</div>
 				</div>
@@ -220,7 +220,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/service2.jpg" alt="">
+						<img src="assets/images/service/truck 4.jpg" alt="">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon2.png" alt="">
 						</div>
@@ -229,7 +229,7 @@
 						<span> Power Only </span>
 						<h2> <a href="service-details.html"> Safety Garunteed </a> </h2>
 						<div class="st__service__btn">
-							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
+							<a href="#"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
 					</div>
 				</div>
@@ -254,7 +254,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/service2.jpg" alt="">
+						<img src="assets/images/service/truck 5.jpg" alt="">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon3.png" alt="">
 						</div>
@@ -263,7 +263,7 @@
 						<span> Box Truck </span>
 						<h2> <a href="service-details.html"> Managing logistics for </a> </h2>
 						<div class="st__service__btn">
-							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
+							<a href="#"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
 					</div>
 				</div>

@@ -465,7 +465,7 @@
 			</div>
 		</div>
 		<div class="row wow fadeInUpBig">
-			<div class="col-lg-4 col-md-6">
+			<div class="col-lg-4 col-md-6 pb-5">
 				<div class="st__project__single p-relative">
 					<div class="st__project__thumb">
 						<img src="assets/images/project/RC 1.png" alt="">
@@ -479,7 +479,7 @@
 					</div>
 				</div>
 			</div>			
-			<div class="col-lg-4 col-md-6">
+			<div class="col-lg-4 col-md-6 pb-5">
 				<div class="st__project__single p-relative mb-res">
 					<div class="st__project__thumb">
 						<img src="assets/images/project/RC 2(1).png" alt="">
@@ -493,7 +493,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-4 col-md-6">
+			<div class="col-lg-4 col-md-6 pb-5">
 				<div class="st__project__single p-relative mb-res">
 					<div class="st__project__thumb">
 						<img src="assets/images/project/RC 2(1).png" alt="">
@@ -507,7 +507,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-4 col-md-6">
+			<div class="col-lg-4 col-md-6 pb-5">
 				<div class="st__project__single p-relative mb-res">
 					<div class="st__project__thumb">
 						<img src="assets/images/project/RC 2(1).png" alt="">

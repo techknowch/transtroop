@@ -254,7 +254,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/trucks 3.jpg" alt="">
+						<img src="assets/images/service/trucks 3.jpeg" alt="">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon3.png" alt="">
 						</div>

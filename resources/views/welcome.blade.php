@@ -464,7 +464,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row wow fadeInUpBig">
+		<div class="row fadeInUpBig">
 			<div class="col-lg-4 col-md-6">
 				<div class="st__project__single p-relative">
 					<div class="st__project__thumb">

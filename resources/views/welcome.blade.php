@@ -479,7 +479,7 @@
 					</div>
 				</div>
 			</div>			
-			<!-- <div class="col-lg-4 col-md-6">
+			<div class="col-lg-4 col-md-6">
 				<div class="row mt">
 					<div class="col-lg-12">
 						<div class="st__project__single p-relative">
@@ -510,7 +510,7 @@
 						</div>
 					</div>
 				</div>
-			</div> -->
+			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="st__project__single p-relative mb-res">
 					<div class="st__project__thumb">

@@ -403,23 +403,27 @@
 								</div>					
 								<div class="col-lg-6 wow fadeInUp">
 									<div class="st__form__box p-relative">
-										<input type="text" name="text" placeholder="Weight. Kg*">
+										<input type="number" name="text" placeholder="Number">
 										<i class="bi bi-bag"></i>
 									</div>
 								</div>					
 								<div class="col-lg-6 wow fadeInUp">
 									<div class="st__form__box p-relative">
-										<input type="text" name="text" placeholder="Distance. km*">
+										<input type="number" name="text" placeholder="MIC Number">
 										<i class="bi bi-geo-alt-fill"></i>
 									</div>
 								</div>					
 								<div class="col-lg-12 wow fadeInUp">
 									<div class="st__form__box p-relative">
 										<select>
-											<option value="1">Select Freight</option>
-											<option value="2">Air Freight</option>
-											<option value="3">Sea Freight</option>
-											<option value="4">Road Freight</option>
+											<option value="1">Truck  Type</option>
+											<option value="2">Dry Van</option>
+											<option value="3">Reefer</option>
+											<option value="4">Flatbed</option>
+											<option value="4">RGN (Heavy Haul)</option>
+											<option value="4">Power Only (Limited Capacity)</option>
+											<option value="4">Box Truck (Limited Capacity)</option>
+											<option value="4">Hotshot (Limited Capacity)</option>
 										</select>
 									</div>
 								</div>

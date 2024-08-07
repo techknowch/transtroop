@@ -203,13 +203,30 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/truck 1.jpeg" alt="">
+						<img src="assets/images/service/trucks 1.jpeg" alt="">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon1.png" alt="">
 						</div>
 					</div>
 					<div class="st__service__content">
-						<span> Dry Van / Reefer </span>
+						<span> Dry Van </span>
+						<h2> <a href="service-details.html"> Transport by Road </a> </h2>
+						<div class="st__service__btn">
+							<a href="#"> <i class="bi bi-arrow-right"></i> </a>
+						</div>
+					</div>
+				</div>
+			</div>	
+			<div class="col-lg-4 col-md-6">
+				<div class="st__service__box wow fadeInUp p-relative">
+					<div class="st__service__thumb">
+						<img src="assets/images/service/trucks 2.jpeg" alt="">
+						<div class="st__service__icon">
+							<img src="assets/images/service/icon1.png" alt="">
+						</div>
+					</div>
+					<div class="st__service__content">
+						<span> Reefer </span>
 						<h2> <a href="service-details.html"> Transport by Road </a> </h2>
 						<div class="st__service__btn">
 							<a href="#"> <i class="bi bi-arrow-right"></i> </a>
@@ -220,7 +237,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/truck 4.jpeg" alt="">
+						<img src="assets/images/service/trucks 4.jpeg" alt="">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon2.png" alt="">
 						</div>
@@ -237,13 +254,13 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/service3.jpg" alt="">
+						<img src="assets/images/service/trucks 3.jpg" alt="">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon3.png" alt="">
 						</div>
 					</div>
 					<div class="st__service__content">
-						<span> Hotshot </span>
+						<span> Flatbed </span>
 						<h2> <a href="service-details.html"> Managing logistics for </a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
@@ -254,7 +271,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/truck 5.jpeg" alt="">
+						<img src="assets/images/service/trucks 5.jpeg" alt="">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon3.png" alt="">
 						</div>

@@ -514,7 +514,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__project__single p-relative mb-res">
 					<div class="st__project__thumb">
-						<img src="assets/images/project/RC 2(2).png" alt="">
+						<img src="assets/images/project/RC 2(1).png" alt="">
 						<div class="st__project__content">
 							<h2><a href="project-details.html">Experts in technology fields</a></h2>
 							<span>Transportation 2024</span>

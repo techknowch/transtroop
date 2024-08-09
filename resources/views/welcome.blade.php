@@ -320,7 +320,7 @@
 				<div class="st__testimonial__box wow fadeInUp p-relative">
 					<div class="st__testi__inner d-flex align-items-center">
 						<div class="st__testi__thumb">
-							<img src="assets/images/testimonial/client 1.jpeg" alt="">
+							<img src="assets/images/testimonial/clients 1.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
 							<h2>Name</h2>
@@ -339,7 +339,7 @@
 				<div class="st__testimonial__box wow fadeInUp p-relative">
 					<div class="st__testi__inner d-flex align-items-center">
 						<div class="st__testi__thumb">
-							<img src="assets/images/testimonial/client 4.jpeg" alt="">
+							<img src="assets/images/testimonial/clients 4.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
 							<h2>Name</h2>
@@ -358,7 +358,7 @@
 				<div class="st__testimonial__box wow fadeInUp p-relative">
 					<div class="st__testi__inner d-flex align-items-center">
 						<div class="st__testi__thumb">
-							<img src="assets/images/testimonial/client 3.jpeg" alt="">
+							<img src="assets/images/testimonial/clients 3.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
 							<h2>Name</h2>

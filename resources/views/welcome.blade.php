@@ -377,15 +377,15 @@
 				<div class="st__testimonial__box wow fadeInUp p-relative">
 					<div class="st__testi__inner d-flex align-items-center">
 						<div class="st__testi__thumb">
-							<img src="assets/images/testimonial/t3.png" alt="">
+							<img src="assets/images/testimonial/clients 5.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
-							<h2>Darrell Steward</h2>
+							<h2>Name</h2>
 							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
 					<div class="st__testi__desc">
-						<p>If it wasn't for Trans Troop, my trucking business wouldn't be where it is today. Their dispatch service makes my business run smoothly. They consistently book $3+ per mile loads for my OTR drivers. I highly recommend their services to anyone looking to outsource their dispatching.</p>
+						<p>These guys are doing an amazing job. I started working with them two years ago with just one truck, and thanks to their hard work, I now have a fleet of four. They keep my trucks booked in advance with great rates. Their negotiation skills are exceptional. If things had stayed the same, I might have been adding another truck this year.</p>
 					</div>
 					<div class="st__testi_quote">
 						<i class="bi bi-quote"></i>
@@ -396,15 +396,15 @@
 				<div class="st__testimonial__box wow fadeInUp p-relative">
 					<div class="st__testi__inner d-flex align-items-center">
 						<div class="st__testi__thumb">
-							<img src="assets/images/testimonial/t3.png" alt="">
+							<img src="assets/images/testimonial/clients 2.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
-							<h2>Darrell Steward</h2>
+							<h2>Name</h2>
 							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
 					<div class="st__testi__desc">
-						<p>If it wasn't for Trans Troop, my trucking business wouldn't be where it is today. Their dispatch service makes my business run smoothly. They consistently book $3+ per mile loads for my OTR drivers. I highly recommend their services to anyone looking to outsource their dispatching.</p>
+						<p>I’m an owner-operator with a 26 ft box truck, and I’ve been working with Trans Troop for over a year. I’ve tried many dispatch services, but the Trans Troop team is top-notch. Even in this tough market, they consistently secure $2 per mile. Highly recommend!</p>
 					</div>
 					<div class="st__testi_quote">
 						<i class="bi bi-quote"></i>
@@ -415,18 +415,18 @@
 				<div class="st__testimonial__box wow fadeInUp p-relative">
 					<div class="st__testi__inner d-flex align-items-center">
 						<div class="st__testi__thumb">
-							<img src="assets/images/testimonial/t3.png" alt="">
+							<img src="assets/images/testimonial/clients 7.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
-							<h2>Darrell Steward</h2>
+							<h2>Name</h2>
 							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
 					<div class="st__testi__desc">
-						<p>If it wasn't for Trans Troop, my trucking business wouldn't be where it is today. Their dispatch service makes my business run smoothly. They consistently book $3+ per mile loads for my OTR drivers. I highly recommend their services to anyone looking to outsource their dispatching.</p>
+						<p>As a woman running my 5 company, I don't have time to book loads myself. That's where Trans Troop comes in, and I couldn’t be happier with their services. They handle everything for my reefer, consistently securing loads at $3 per mile. Their efficiency and reliability have been a game-changer for me. Highly recommend it!</p>
 					</div>
 					<div class="st__testi_quote">
-				gitu		<i class="bi bi-quote"></i>
+						<i class="bi bi-quote"></i>
 					</div>
 				</div>
 			</div>
@@ -466,7 +466,7 @@
 								</div>					
 								<div class="col-lg-6 wow fadeInUp">
 									<div class="st__form__box p-relative">
-										<input type="number" name="text" placeholder="MIC Number">
+										<input type="number" name="text" placeholder="MC Number">
 										<i class="bi bi-geo-alt-fill"></i>
 									</div>
 								</div>					
@@ -527,11 +527,11 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/RC 1.png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Experts in technology fields</a></h2>
-							<span>Transportation 2024</span>
+							<h2><a href="project-details.html">Box Truck RC's</a></h2>
+							<span>Highest Paying</span>
 						</div>
 						<div class="st__project__btn">
-							<a href="project-details.html"> Details <i class="bi bi-arrow-right"></i></a>
+							<a href="#"> Details <i class="bi bi-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -541,11 +541,11 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/RC 2(1).png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Experts in technology fields</a></h2>
-							<span>Transportation 2024</span>
+							<h2><a href="project-details.html">Box Truck RC's</a></h2>
+							<span>Highest Paying</span>
 						</div>
 						<div class="st__project__btn">
-							<a href="project-details.html"> Details <i class="bi bi-arrow-right"></i></a>
+							<a href="#"> Details <i class="bi bi-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -555,11 +555,11 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/RC 2(1).png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Experts in technology fields</a></h2>
-							<span>Transportation 2024</span>
+							<h2><a href="project-details.html">Flatbed RC's</a></h2>
+							<span>Highest Paying</span>
 						</div>
 						<div class="st__project__btn">
-							<a href="project-details.html"> Details <i class="bi bi-arrow-right"></i></a>
+							<a href="#"> Details <i class="bi bi-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -569,11 +569,39 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/RC 2(1).png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Experts in technology fields</a></h2>
-							<span>Transportation 2024</span>
+							<h2><a href="project-details.html">Flatbed RC's</a></h2>
+							<span>Highest Paying</span>
 						</div>
 						<div class="st__project__btn">
-							<a href="project-details.html"> Details <i class="bi bi-arrow-right"></i></a>
+							<a href="#"> Details <i class="bi bi-arrow-right"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 pb-5">
+				<div class="st__project__single p-relative mb-res">
+					<div class="st__project__thumb">
+						<img src="assets/images/project/RC 4.png" alt="">
+						<div class="st__project__content">
+							<h2><a href="project-details.html">Reefer & Dryvan RC's</a></h2>
+							<span>Highest Paying</span>
+						</div>
+						<div class="st__project__btn">
+							<a href="#"> Details <i class="bi bi-arrow-right"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 pb-5">
+				<div class="st__project__single p-relative mb-res">
+					<div class="st__project__thumb">
+						<img src="assets/images/project/RC 3.png" alt="">
+						<div class="st__project__content">
+							<h2><a href="project-details.html">Reefer & Dryvan</a></h2>
+							<span>Highest Paying</span>
+						</div>
+						<div class="st__project__btn">
+							<a href="#"> Details <i class="bi bi-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>

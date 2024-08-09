@@ -320,10 +320,10 @@
 				<div class="st__testimonial__box wow fadeInUp p-relative">
 					<div class="st__testi__inner d-flex align-items-center">
 						<div class="st__testi__thumb">
-							<img src="assets/images/testimonial/t1.png" alt="">
+							<img src="assets/images/testimonial/client 1.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
-							<h2>Dave Simmons</h2>
+							<h2>Name</h2>
 							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
@@ -339,10 +339,10 @@
 				<div class="st__testimonial__box wow fadeInUp p-relative">
 					<div class="st__testi__inner d-flex align-items-center">
 						<div class="st__testi__thumb">
-							<img src="assets/images/testimonial/t2.png" alt="">
+							<img src="assets/images/testimonial/client 4.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
-							<h2>Madriya Merin</h2>
+							<h2>Name</h2>
 							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
@@ -358,10 +358,10 @@
 				<div class="st__testimonial__box wow fadeInUp p-relative">
 					<div class="st__testi__inner d-flex align-items-center">
 						<div class="st__testi__thumb">
-							<img src="assets/images/testimonial/t3.png" alt="">
+							<img src="assets/images/testimonial/client 3.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
-							<h2>Darrell Steward</h2>
+							<h2>Name</h2>
 							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>

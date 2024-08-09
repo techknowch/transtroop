@@ -423,7 +423,7 @@
 						</div>
 					</div>
 					<div class="st__testi__desc">
-						<p>As a woman running my 5 company, I don't have time to book loads myself. That's where Trans Troop comes in, and I couldn’t be happier with their services. They handle everything for my reefer, consistently securing loads at $3 per mile. Their efficiency and reliability have been a game-changer for me. Highly recommend it!</p>
+						<p>As a woman running my company, I don't have time to book loads myself. That's where Trans Troop comes in, and I couldn’t be happier with their services. They handle everything for my reefer, consistently securing loads at $3 per mile. Their efficiency and reliability have been a game-changer for me. Highly recommend it!</p>
 					</div>
 					<div class="st__testi_quote">
 						<i class="bi bi-quote"></i>

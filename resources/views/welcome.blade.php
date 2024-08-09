@@ -373,6 +373,63 @@
 					</div>
 				</div>
 			</div>
+			<div class="col-lg-4 col-md-6">
+				<div class="st__testimonial__box wow fadeInUp p-relative">
+					<div class="st__testi__inner d-flex align-items-center">
+						<div class="st__testi__thumb">
+							<img src="assets/images/testimonial/t3.png" alt="">
+						</div>
+						<div class="st__testi__content">
+							<h2>Darrell Steward</h2>
+							<!-- <span>Dramatically enhance</span> -->
+						</div>
+					</div>
+					<div class="st__testi__desc">
+						<p>If it wasn't for Trans Troop, my trucking business wouldn't be where it is today. Their dispatch service makes my business run smoothly. They consistently book $3+ per mile loads for my OTR drivers. I highly recommend their services to anyone looking to outsource their dispatching.</p>
+					</div>
+					<div class="st__testi_quote">
+						<i class="bi bi-quote"></i>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6">
+				<div class="st__testimonial__box wow fadeInUp p-relative">
+					<div class="st__testi__inner d-flex align-items-center">
+						<div class="st__testi__thumb">
+							<img src="assets/images/testimonial/t3.png" alt="">
+						</div>
+						<div class="st__testi__content">
+							<h2>Darrell Steward</h2>
+							<!-- <span>Dramatically enhance</span> -->
+						</div>
+					</div>
+					<div class="st__testi__desc">
+						<p>If it wasn't for Trans Troop, my trucking business wouldn't be where it is today. Their dispatch service makes my business run smoothly. They consistently book $3+ per mile loads for my OTR drivers. I highly recommend their services to anyone looking to outsource their dispatching.</p>
+					</div>
+					<div class="st__testi_quote">
+						<i class="bi bi-quote"></i>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6">
+				<div class="st__testimonial__box wow fadeInUp p-relative">
+					<div class="st__testi__inner d-flex align-items-center">
+						<div class="st__testi__thumb">
+							<img src="assets/images/testimonial/t3.png" alt="">
+						</div>
+						<div class="st__testi__content">
+							<h2>Darrell Steward</h2>
+							<!-- <span>Dramatically enhance</span> -->
+						</div>
+					</div>
+					<div class="st__testi__desc">
+						<p>If it wasn't for Trans Troop, my trucking business wouldn't be where it is today. Their dispatch service makes my business run smoothly. They consistently book $3+ per mile loads for my OTR drivers. I highly recommend their services to anyone looking to outsource their dispatching.</p>
+					</div>
+					<div class="st__testi_quote">
+				gitu		<i class="bi bi-quote"></i>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>

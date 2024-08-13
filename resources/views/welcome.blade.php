@@ -476,11 +476,11 @@
 											<option value="1">Truck  Type</option>
 											<option value="2">Dry Van</option>
 											<option value="3">Reefer</option>
-											<option value="4">Flatbed</option>
-											<option value="4">RGN (Heavy Haul)</option>
-											<option value="4">Power Only (Limited Capacity)</option>
-											<option value="4">Box Truck (Limited Capacity)</option>
-											<option value="4">Hotshot (Limited Capacity)</option>
+											<option value="4">Flatbed / Hotshot</option>
+											<option value="4">Stepdeck</option>
+											<option value="4">RGN</option>
+											<option value="4">Power Only</option>
+											<option value="4">Box Truck</option>
 										</select>
 									</div>
 								</div>
@@ -525,7 +525,7 @@
 			<div class="col-lg-4 col-md-6 pb-5">
 				<div class="st__project__single p-relative">
 					<div class="st__project__thumb">
-						<img src="assets/images/project/RC 1.png" alt="">
+						<img src="assets/images/project/box_truck_rc_1.png" alt="">
 						<div class="st__project__content">
 							<h2><a href="project-details.html">Box Truck RC's</a></h2>
 							<span>Highest Paying</span>
@@ -539,7 +539,7 @@
 			<div class="col-lg-4 col-md-6 pb-5">
 				<div class="st__project__single p-relative mb-res">
 					<div class="st__project__thumb">
-						<img src="assets/images/project/RC 2(1).png" alt="">
+						<img src="assets/images/project/box_truck_rc_1.png" alt="">
 						<div class="st__project__content">
 							<h2><a href="project-details.html">Box Truck RC's</a></h2>
 							<span>Highest Paying</span>
@@ -553,7 +553,7 @@
 			<div class="col-lg-4 col-md-6 pb-5">
 				<div class="st__project__single p-relative mb-res">
 					<div class="st__project__thumb">
-						<img src="assets/images/project/RC 2(1).png" alt="">
+						<img src="assets/images/project/flatbed_rc_1.png" alt="">
 						<div class="st__project__content">
 							<h2><a href="project-details.html">Flatbed RC's</a></h2>
 							<span>Highest Paying</span>
@@ -567,7 +567,7 @@
 			<div class="col-lg-4 col-md-6 pb-5">
 				<div class="st__project__single p-relative mb-res">
 					<div class="st__project__thumb">
-						<img src="assets/images/project/RC 2(1).png" alt="">
+						<img src="assets/images/project/flatbed_rc_1.png" alt="">
 						<div class="st__project__content">
 							<h2><a href="project-details.html">Flatbed RC's</a></h2>
 							<span>Highest Paying</span>
@@ -581,7 +581,7 @@
 			<div class="col-lg-4 col-md-6 pb-5">
 				<div class="st__project__single p-relative mb-res">
 					<div class="st__project__thumb">
-						<img src="assets/images/project/RC 4.png" alt="">
+						<img src="assets/images/project/reefer_rc_1.png" alt="">
 						<div class="st__project__content">
 							<h2><a href="project-details.html">Reefer & Dryvan RC's</a></h2>
 							<span>Highest Paying</span>
@@ -595,7 +595,7 @@
 			<div class="col-lg-4 col-md-6 pb-5">
 				<div class="st__project__single p-relative mb-res">
 					<div class="st__project__thumb">
-						<img src="assets/images/project/RC 3.png" alt="">
+						<img src="assets/images/project/reefer_rc_2.png" alt="">
 						<div class="st__project__content">
 							<h2><a href="project-details.html">Reefer & Dryvan</a></h2>
 							<span>Highest Paying</span>

@@ -26,7 +26,7 @@
 				<div class="col-lg-12">
 					<div class="slider-content">
 						<h5>We Specialise in the transportation</h5>
-						<h1>Experience The Best <br> Logistic & Transport</h1>
+						<h1>Experience The Best <br> Dispatching & Transport</h1>
 						<p>At TransTroop, we’re more than just a dispatch service; we’re your partner in success. Our team is dedicated to finding the best freight opportunities that align with your business goals. With a commitment to transparency, reliability, and 24/7 support, we work tirelessly to keep your trucks moving and your revenue growing.</p>
 						<a class="st__btn mt-40" href="service-details.html"> More Details <i class="bi bi-arrow-right"></i> </a>
 					</div>
@@ -152,7 +152,7 @@
 				<div class="st__about__wrap">
 					<div class="st__section__title wow fadeInUp">
 						<h5> About The Company </h5>
-						<h1>Logistics Solutions That 
+						<h1>dispatching Solutions That 
 							Deliver Excellence</h1>
 							<p>Payment solutions enable businesses to accept payments Payment stions enable businesses to 
 								accept payments from ctly customers ctly securely. stions enable businesses 
@@ -197,7 +197,7 @@
 				<div class="st__section__title mb-50 text-center wow fadeInUp">
 					<h5> Types of Loglstice </h5>
 					<span class="circle"></span>
-					<h1>Popular Logistics Services</h1>
+					<h1>Popular dispatching Services</h1>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6">
@@ -261,7 +261,7 @@
 					</div>
 					<div class="st__service__content">
 						<span> Flatbed </span>
-						<h2> <a href="service-details.html"> Managing logistics for </a> </h2>
+						<h2> <a href="service-details.html"> Managing dispatching for </a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -278,7 +278,7 @@
 					</div>
 					<div class="st__service__content">
 						<span> Box Truck </span>
-						<h2> <a href="service-details.html"> Managing logistics for </a> </h2>
+						<h2> <a href="service-details.html"> Managing dispatching for </a> </h2>
 						<div class="st__service__btn">
 							<a href="#"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -295,7 +295,7 @@
 					</div>
 					<div class="st__service__content">
 						<span> RGN </span>
-						<h2> <a href="service-details.html"> Managing logistics for </a> </h2>
+						<h2> <a href="service-details.html"> Managing dispatching for </a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -442,7 +442,7 @@
 					<div class="st__contact__position">
 						<div class="st__section__title mb-50 wow fadeInUp">
 							<h5 class="text-white"> Booking Appointment </h5>
-							<h1 class="text-white">Book Transport & Logistics</h1>
+							<h1 class="text-white">Book Transport & dispatching</h1>
 						</div>
 						<form action="https://formspree.io/f/maygbqwa" method="post">
 							<div class="row">
@@ -527,8 +527,8 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/box_truck_rc_1.png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Box Truck RC's</a></h2>
-							<span>Highest Paying</span>
+							<h2><a href="project-details.html">Box Truck RC</a></h2>
+							<!-- <span>Highest Paying</span> -->
 						</div>
 						<div class="st__project__btn">
 							<a href="#"> Details <i class="bi bi-arrow-right"></i></a>
@@ -539,10 +539,10 @@
 			<div class="col-lg-4 col-md-6 pb-5">
 				<div class="st__project__single p-relative mb-res">
 					<div class="st__project__thumb">
-						<img src="assets/images/project/box_truck_rc_1.png" alt="">
+						<img src="assets/images/project/box_truck_rc_2.png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Box Truck RC's</a></h2>
-							<span>Highest Paying</span>
+							<h2><a href="project-details.html">Box Truck RC</a></h2>
+							<!-- <span>Highest Paying</span> -->
 						</div>
 						<div class="st__project__btn">
 							<a href="#"> Details <i class="bi bi-arrow-right"></i></a>
@@ -555,8 +555,8 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/flatbed_rc_1.png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Flatbed RC's</a></h2>
-							<span>Highest Paying</span>
+							<h2><a href="project-details.html">Flatbed RC</a></h2>
+							<!-- <span>Highest Paying</span> -->
 						</div>
 						<div class="st__project__btn">
 							<a href="#"> Details <i class="bi bi-arrow-right"></i></a>
@@ -569,8 +569,8 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/flatbed_rc_1.png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Flatbed RC's</a></h2>
-							<span>Highest Paying</span>
+							<h2><a href="project-details.html">Flatbed RC</a></h2>
+							<!-- <span>Highest Paying</span> -->
 						</div>
 						<div class="st__project__btn">
 							<a href="#"> Details <i class="bi bi-arrow-right"></i></a>
@@ -583,8 +583,8 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/reefer_rc_1.png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Reefer & Dryvan RC's</a></h2>
-							<span>Highest Paying</span>
+							<h2><a href="project-details.html">Reefer & Dryvan RC</a></h2>
+							<!-- <span>Highest Paying</span> -->
 						</div>
 						<div class="st__project__btn">
 							<a href="#"> Details <i class="bi bi-arrow-right"></i></a>
@@ -598,7 +598,7 @@
 						<img src="assets/images/project/reefer_rc_2.png" alt="">
 						<div class="st__project__content">
 							<h2><a href="project-details.html">Reefer & Dryvan</a></h2>
-							<span>Highest Paying</span>
+							<!-- <span>Highest Paying</span> -->
 						</div>
 						<div class="st__project__btn">
 							<a href="#"> Details <i class="bi bi-arrow-right"></i></a>
@@ -701,7 +701,7 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="st-call-do-action-content text-center wow fadeInUpBig">
-					<h2>Looking For The Best Logistics <br> Transport Service?</h2>
+					<h2>Looking For The Best dispatching <br> Transport Service?</h2>
 					<a class="st__btn2" href="service-details.html"> More Details <i class="bi bi-arrow-right"></i> </a>
 					<a class="st__btn mt-40" href="#"> Read More <i class="bi bi-arrow-right"></i> </a>
 				</div>

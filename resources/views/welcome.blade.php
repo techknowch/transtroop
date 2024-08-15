@@ -10,7 +10,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="slider-content">
-						<h5>We Specialise in the transportation</h5>
+						<h5>We Specialise in the dispatching</h5>
 						<h1>TransTroop: Your Trusted <br> Dispatching Partner</h1>
 						<p>At TransTroop, we specialize in providing top-tier Dispatching services tailored to meet the diverse needs of your trucking business. Whether you operate a flatbed, dry van, reefer, step deck, or RGN, we have the expertise and resources to keep your fleet running smoothly and profitably.</p>
 						<a class="st__btn mt-40" href="service-details.html"> More Details <i class="bi bi-arrow-right"></i> </a>
@@ -25,7 +25,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="slider-content">
-						<h5>We Specialise in the transportation</h5>
+						<h5>We Specialise in the dispatching</h5>
 						<h1>Experience The Best <br> Dispatching & Transport</h1>
 						<p>At TransTroop, we’re more than just a dispatch service; we’re your partner in success. Our team is dedicated to finding the best freight opportunities that align with your business goals. With a commitment to transparency, reliability, and 24/7 support, we work tirelessly to keep your trucks moving and your revenue growing.</p>
 						<a class="st__btn mt-40" href="service-details.html"> More Details <i class="bi bi-arrow-right"></i> </a>
@@ -151,12 +151,10 @@
 			<div class="col-lg-6">
 				<div class="st__about__wrap">
 					<div class="st__section__title wow fadeInUp">
-						<h5> About The Company </h5>
+						<h5> About Trans Troop LLC </h5>
 						<h1>Dispatching Solutions That 
 							Deliver Excellence</h1>
-							<p>Payment solutions enable businesses to accept payments Payment stions enable businesses to 
-								accept payments from ctly customers ctly securely. stions enable businesses 
-								to accept payments from ctly customers ctly securely.</p>
+							<p>Trans Troop LLC is a leading provider of truck dispatch services, dedicated to serving and advocating for owner-operators and logistics companies across the United States. We focus on maximizing your earnings by connecting you with more freight opportunities and optimizing your operations. We offer more than just dispatching services; we partner with you to provide the tools and support necessary to keep your trucks loaded and your profits rising.<br></br>As a Registered Dispatch Company with a team of over 60+ professionals, we have established strong relationships with 50+ direct brokers and maintain direct contacts with shippers. Our Transport Management System (TMS) is integrated with four major load boards, ensuring that you never miss a profitable load.</p>
 					</div>
 					<div class="st__about__content wow fadeInUp">
 						<div class="st__about__iconbox mt-35 d-flex">
@@ -178,8 +176,8 @@
 									<a href="tel:+562015550124"> <i class="bi bi-telephone"></i> </a>
 								</div>
 								<div class="st__about__infocontent">
-									<span>Emergency</span>
-									+56 (201) 555-0124
+									<span>Contact</span>
+									(872) 266-3183, 315-227-9247
 								</div>
 							</div>
 						</div>
@@ -195,9 +193,9 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-12">
 				<div class="st__section__title mb-50 text-center wow fadeInUp">
-					<h5> Types of Loglstice </h5>
+					<h5> Types of Trucks </h5>
 					<span class="circle"></span>
-					<h1>Popular Dispatching Services</h1>
+					<h1>Popular Trucks We Deal in</h1>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6">
@@ -210,7 +208,7 @@
 					</div>
 					<div class="st__service__content">
 						<span> Dry Van </span>
-						<h2> <a href="service-details.html"> Transport by Road </a> </h2>
+						<h2> <a href="#"> Dry van : Weekly gross upto $10k </a> </h2>
 						<div class="st__service__btn">
 							<a href="#"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -227,7 +225,7 @@
 					</div>
 					<div class="st__service__content">
 						<span> Reefer </span>
-						<h2> <a href="service-details.html"> Transport by Road </a> </h2>
+						<h2> <a href="#"> Reefer: Weekly gross upto $10k </a> </h2>
 						<div class="st__service__btn">
 							<a href="#"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -244,7 +242,7 @@
 					</div>
 					<div class="st__service__content">
 						<span> Power Only </span>
-						<h2> <a href="service-details.html"> Safety Garunteed </a> </h2>
+						<h2> <a href="#"> Power only : Weekly gross upto $8k </a> </h2>
 						<div class="st__service__btn">
 							<a href="#"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -261,7 +259,7 @@
 					</div>
 					<div class="st__service__content">
 						<span> Flatbed </span>
-						<h2> <a href="service-details.html"> Managing Dispatching for </a> </h2>
+						<h2> <a href="#"> Flatbed/ hotshot : Weekly gross upto $8k </a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -278,7 +276,7 @@
 					</div>
 					<div class="st__service__content">
 						<span> Box Truck </span>
-						<h2> <a href="service-details.html"> Managing Dispatching for </a> </h2>
+						<h2> <a href="#"> Box truck : Weekly gross upto $6k </a> </h2>
 						<div class="st__service__btn">
 							<a href="#"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -295,7 +293,7 @@
 					</div>
 					<div class="st__service__content">
 						<span> RGN </span>
-						<h2> <a href="service-details.html"> Managing Dispatching for </a> </h2>
+						<h2> <a href="#"> RGN: Weekly gross upto $10k </a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -323,7 +321,7 @@
 							<img src="assets/images/testimonial/clients 1.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
-							<h2>Name</h2>
+							<h2>Lucas Bennett</h2>
 							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
@@ -342,7 +340,7 @@
 							<img src="assets/images/testimonial/clients 4.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
-							<h2>Name</h2>
+							<h2>Bill Duzen</h2>
 							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
@@ -361,7 +359,7 @@
 							<img src="assets/images/testimonial/clients 3.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
-							<h2>Name</h2>
+							<h2>Ethan Parker</h2>
 							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
@@ -380,7 +378,7 @@
 							<img src="assets/images/testimonial/clients 5.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
-							<h2>Name</h2>
+							<h2>James Mitchell</h2>
 							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
@@ -399,7 +397,7 @@
 							<img src="assets/images/testimonial/clients 2.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
-							<h2>Name</h2>
+							<h2>Benjamin Hayes</h2>
 							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
@@ -418,7 +416,7 @@
 							<img src="assets/images/testimonial/clients 7.jpeg" alt="">
 						</div>
 						<div class="st__testi__content">
-							<h2>Name</h2>
+							<h2>Olivia Carter</h2>
 							<!-- <span>Dramatically enhance</span> -->
 						</div>
 					</div>
@@ -442,9 +440,9 @@
 					<div class="st__contact__position">
 						<div class="st__section__title mb-50 wow fadeInUp">
 							<h5 class="text-white"> Booking Appointment </h5>
-							<h1 class="text-white">Book Transport & Dispatching</h1>
+							<h1 class="text-white">Request Quote for your Truck</h1>
 						</div>
-						<form action="https://formspree.io/f/maygbqwa" method="post">
+						<form action="#" method="post">
 							<div class="row">
 								<div class="col-lg-6 wow fadeInUp">
 									<div class="st__form__box p-relative">
@@ -527,7 +525,7 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/box_truck_rc_1.png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Box Truck RC</a></h2>
+							<h2><a href="#">Box Truck RC</a></h2>
 							<!-- <span>Highest Paying</span> -->
 						</div>
 						<div class="st__project__btn">
@@ -541,7 +539,7 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/box_truck_rc_2.png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Box Truck RC</a></h2>
+							<h2><a href="#">Box Truck RC</a></h2>
 							<!-- <span>Highest Paying</span> -->
 						</div>
 						<div class="st__project__btn">
@@ -555,7 +553,7 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/flatbed_rc_1.png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Flatbed RC</a></h2>
+							<h2><a href="#">Flatbed RC</a></h2>
 							<!-- <span>Highest Paying</span> -->
 						</div>
 						<div class="st__project__btn">
@@ -569,7 +567,7 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/flatbed_rc_2.png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Flatbed RC</a></h2>
+							<h2><a href="#">Flatbed RC</a></h2>
 							<!-- <span>Highest Paying</span> -->
 						</div>
 						<div class="st__project__btn">
@@ -583,7 +581,7 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/reefer_rc_1.png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Reefer & Dryvan RC</a></h2>
+							<h2><a href="#">Reefer & Dryvan RC</a></h2>
 							<!-- <span>Highest Paying</span> -->
 						</div>
 						<div class="st__project__btn">
@@ -597,7 +595,7 @@
 					<div class="st__project__thumb">
 						<img src="assets/images/project/reefer_rc_2.png" alt="">
 						<div class="st__project__content">
-							<h2><a href="project-details.html">Reefer & Dryvan</a></h2>
+							<h2><a href="#">Reefer & Dryvan</a></h2>
 							<!-- <span>Highest Paying</span> -->
 						</div>
 						<div class="st__project__btn">

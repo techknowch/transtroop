@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title> Logistcwr - Transport and Logistics HTML5 Template </title>
+	<title> TransTroop </title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
@@ -65,8 +65,8 @@
 			<div class="col-lg-9">
 				<div class="st-header-top-info">
 					<ul>
-						<li><a href="#"><i class="bi bi-geo-alt-fill"></i> Location : 12W Profession Str Hobert, CA</a></li>
-						<li><a href="#"> <i class="bi bi-envelope"></i> Our Email : helpus24@gmail.com </a></li>
+						<li><a href="#"><i class="bi bi-geo-alt-fill"></i> Location : 30 N Gould ST, Sheridan , WY 82801</a></li>
+						<li><a href="#"> <i class="bi bi-envelope"></i> Our Email : info@transtroop.com </a></li>
 						<li><a href="#"> <i class="bi bi-clock"></i> Office Time : Mon - Fri 8:00 - 6:30 </a></li>
 					</ul>
 				</div>
@@ -275,7 +275,7 @@
 		<div class="row">
 			<div class="col-lg-12 wow fadeInUpBig">
 				<div class="st__footer__copyright text-center">
-					<span> © Copyrights 2024 <a href="#"> sTheme-IT </a> All rights reserved. </span>
+					<span> © Copyrights 2024 <a href="#"> TransTroop </a> All rights reserved. </span>
 				</div>
 			</div>
 		</div>

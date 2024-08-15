@@ -621,20 +621,20 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__pricing__box wow fadeInUpBig">
 					<div class="st__pricing__content">
-						<h4>Basic Plan</h4>
+						<h4>Non-semi Plan</h4>
 						<div class="st__price">
-							<span class="st-price"> 65 </span>
+							<span class="st-price"> 250 </span>
 							<span class="st-dollar"> $ </span>
-							<span class="st-month">/ Per Month</span>
+							<span class="st-month">Weekely or 8%</span>
 						</div>
 					</div>
 					<div class="st__pricing__body">
 						<ul>
-							<li> 1 warehouse </li>
-							<li> Custom business rules </li>
-							<li> Real-time rate shopping </li>
+							<li> One for box truck </li>
+							<li> Flatbed / Hotshot 26 ft - 38 ft </li>
+							<!-- <li> Real-time rate shopping </li>
 							<li> 100 freight shipments </li>
-							<li> Any time 24/7 hour support </li>
+							<li> Any time 24/7 hour support </li> -->
 						</ul>
 					</div>
 					<div class="st__pricing__btn mt-40">
@@ -645,20 +645,20 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__pricing__box wow fadeInUpBig">
 					<div class="st__pricing__content">
-						<h4>Standard Plan</h4>
+						<h4>Semi Plan</h4>
 						<div class="st__price">
-							<span class="st-price"> 79 </span>
+							<span class="st-price"> 300 </span>
 							<span class="st-dollar"> $ </span>
-							<span class="st-month">/ Per Month</span>
+							<span class="st-month">Weekly or 5%</span>
 						</div>
 					</div>
 					<div class="st__pricing__body">
 						<ul>
-							<li> 1 warehouse </li>
-							<li> Custom business rules </li>
-							<li> Real-time rate shopping </li>
-							<li> 100 freight shipments </li>
-							<li> Any time 24/7 hour support </li>
+							<li> Reefer / Dry van  </li>
+							<li> Flat bed hotshot 38 ft - 53 ft  </li>
+							<li> Poweronly </li>
+							<!-- <li> 100 freight shipments </li>
+							<li> Any time 24/7 hour support </li> -->
 						</ul>
 					</div>
 					<div class="st__pricing__btn mt-40">

@@ -193,7 +193,7 @@
 										</div>
 										<div class="st-contact-content">
 											<span>Emergency</span>
-											+56 (201) 555-0124
+											(872) 266-3183, 315-227-9247
 										</div>
 									</div>
 								</div>

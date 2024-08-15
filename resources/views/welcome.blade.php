@@ -567,7 +567,7 @@
 			<div class="col-lg-4 col-md-6 pb-5">
 				<div class="st__project__single p-relative mb-res">
 					<div class="st__project__thumb">
-						<img src="assets/images/project/flatbed_rc_1.png" alt="">
+						<img src="assets/images/project/flatbed_rc_2.png" alt="">
 						<div class="st__project__content">
 							<h2><a href="project-details.html">Flatbed RC</a></h2>
 							<!-- <span>Highest Paying</span> -->

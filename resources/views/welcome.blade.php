@@ -12,7 +12,7 @@
 					<div class="slider-content">
 						<h5>We Specialise in the transportation</h5>
 						<h1>TransTroop: Your Trusted <br> Dispatching Partner</h1>
-						<p>At TransTroop, we specialize in providing top-tier dispatching services tailored to meet the diverse needs of your trucking business. Whether you operate a flatbed, dry van, reefer, step deck, or RGN, we have the expertise and resources to keep your fleet running smoothly and profitably.</p>
+						<p>At TransTroop, we specialize in providing top-tier Dispatching services tailored to meet the diverse needs of your trucking business. Whether you operate a flatbed, dry van, reefer, step deck, or RGN, we have the expertise and resources to keep your fleet running smoothly and profitably.</p>
 						<a class="st__btn mt-40" href="service-details.html"> More Details <i class="bi bi-arrow-right"></i> </a>
 					</div>
 				</div>
@@ -152,7 +152,7 @@
 				<div class="st__about__wrap">
 					<div class="st__section__title wow fadeInUp">
 						<h5> About The Company </h5>
-						<h1>dispatching Solutions That 
+						<h1>Dispatching Solutions That 
 							Deliver Excellence</h1>
 							<p>Payment solutions enable businesses to accept payments Payment stions enable businesses to 
 								accept payments from ctly customers ctly securely. stions enable businesses 
@@ -197,7 +197,7 @@
 				<div class="st__section__title mb-50 text-center wow fadeInUp">
 					<h5> Types of Loglstice </h5>
 					<span class="circle"></span>
-					<h1>Popular dispatching Services</h1>
+					<h1>Popular Dispatching Services</h1>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6">
@@ -261,7 +261,7 @@
 					</div>
 					<div class="st__service__content">
 						<span> Flatbed </span>
-						<h2> <a href="service-details.html"> Managing dispatching for </a> </h2>
+						<h2> <a href="service-details.html"> Managing Dispatching for </a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -278,7 +278,7 @@
 					</div>
 					<div class="st__service__content">
 						<span> Box Truck </span>
-						<h2> <a href="service-details.html"> Managing dispatching for </a> </h2>
+						<h2> <a href="service-details.html"> Managing Dispatching for </a> </h2>
 						<div class="st__service__btn">
 							<a href="#"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -295,7 +295,7 @@
 					</div>
 					<div class="st__service__content">
 						<span> RGN </span>
-						<h2> <a href="service-details.html"> Managing dispatching for </a> </h2>
+						<h2> <a href="service-details.html"> Managing Dispatching for </a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -328,7 +328,7 @@
 						</div>
 					</div>
 					<div class="st__testi__desc">
-						<p>I am an owner-operator with a very picky personality, and I want the best loads all the time. I’ve worked with Trans Troop for over a year now, and they continue to deliver the best dispatching service. I always have loads ready to pick right after my morning drops. If it wasn’t for them, I would still be stressed out trying to book my own loads. Highly recommend them!</p>
+						<p>I am an owner-operator with a very picky personality, and I want the best loads all the time. I’ve worked with Trans Troop for over a year now, and they continue to deliver the best Dispatching service. I always have loads ready to pick right after my morning drops. If it wasn’t for them, I would still be stressed out trying to book my own loads. Highly recommend them!</p>
 					</div>
 					<div class="st__testi_quote">
 						<i class="bi bi-quote"></i>
@@ -366,7 +366,7 @@
 						</div>
 					</div>
 					<div class="st__testi__desc">
-						<p>If it wasn't for Trans Troop, my trucking business wouldn't be where it is today. Their dispatch service makes my business run smoothly. They consistently book $3+ per mile loads for my OTR drivers. I highly recommend their services to anyone looking to outsource their dispatching.</p>
+						<p>If it wasn't for Trans Troop, my trucking business wouldn't be where it is today. Their dispatch service makes my business run smoothly. They consistently book $3+ per mile loads for my OTR drivers. I highly recommend their services to anyone looking to outsource their Dispatching.</p>
 					</div>
 					<div class="st__testi_quote">
 						<i class="bi bi-quote"></i>
@@ -442,7 +442,7 @@
 					<div class="st__contact__position">
 						<div class="st__section__title mb-50 wow fadeInUp">
 							<h5 class="text-white"> Booking Appointment </h5>
-							<h1 class="text-white">Book Transport & dispatching</h1>
+							<h1 class="text-white">Book Transport & Dispatching</h1>
 						</div>
 						<form action="https://formspree.io/f/maygbqwa" method="post">
 							<div class="row">
@@ -701,7 +701,7 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="st-call-do-action-content text-center wow fadeInUpBig">
-					<h2>Looking For The Best dispatching <br> Transport Service?</h2>
+					<h2>Looking For The Best Dispatching <br> Transport Service?</h2>
 					<a class="st__btn2" href="service-details.html"> More Details <i class="bi bi-arrow-right"></i> </a>
 					<a class="st__btn mt-40" href="#"> Read More <i class="bi bi-arrow-right"></i> </a>
 				</div>

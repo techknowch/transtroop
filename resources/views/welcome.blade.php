@@ -616,6 +616,8 @@
 					<h5> Pricing & Plans </h5>
 					<span class="circle"></span>
 					<h1>Effective & Affordable Plans</h1>
+					<p>Weekly Rate: We offer a flat weekly rate between $250-$300 depending upon truck type(Payable at the end of the week).
+Percentage-Based: Alternatively, we offer a percentage-based payment structure that depends on the type of truck and other specifics<br></br>(Rates are negotiable depending upon the fleet size and service requirements).</p>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6">
@@ -666,7 +668,7 @@
 					</div>
 				</div>
 			</div>			
-			<div class="col-lg-4 col-md-6">
+			<!-- <div class="col-lg-4 col-md-6">
 				<div class="st__pricing__box wow fadeInUpBig">
 					<div class="st__pricing__content">
 						<h4>Premium Plan</h4>
@@ -689,7 +691,7 @@
 						<a href="#"> Order Now </a>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </div>

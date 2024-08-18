@@ -35,25 +35,22 @@
 				<div class="st__about__wrap">
 					<div class="st__section__title wow fadeInUp">
 						<h5> About The Company </h5>
-						<h1>Global logistics Solution 
-							Provider 1999</h1>
-							<p>Payment solutions enable businesses to accept payments Payment stions enable businesses to 
-								accept payments from ctly customers ctly securely. stions enable businesses 
-								to accept payments from ctly customers ctly securely.</p>
+						<h1>Why Our Truck Dispatchers Are the Best</h1>
+							<p>At TransTroop, we pride ourselves on being the best in the business. Our dedicated truck dispatchers work tirelessly to find the most lucrative loads for you, negotiate the best rates, and handle all the paperwork, so you can stay focused on what you do best – driving. With our premium truck dispatch services, you’ll have a partner who understands the trucking industry and is committed to your success.</p>
 					</div>
 					<div class="st__about__content wow fadeInUp">
 						<div class="st__about__list__box mt-35">
 							<div class="row">
 								<div class="col-md-6">
 									<ul class="about__list">
-										<li>Worldwide Services</li>
-										<li>Local Service</li>
+										<li>Flatbeds</li>
+										<li>Dry Vans</li>
 									</ul>
 								</div>								
 								<div class="col-md-6">
 									<ul class="about__list">
-										<li>Tracking Moving</li>
-										<li>Due Time Delivery</li>
+										<li>Reefers</li>
+										<li>Step Decks</li>
 									</ul>
 								</div>
 							</div>
@@ -81,9 +78,9 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="st__section__title style2 mb-50 text-center wow fadeInUp">
-					<h5> Types of Loglstice </h5>
+					<h5> Truck Types We Dispatch </h5>
 					<span class="circle"></span>
-					<h1>Popular Logistics Services</h1>
+					<h1>Best Trucking Dispatch Services for Trucking Companies</h1>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6">
@@ -95,9 +92,8 @@
 						<div class="st__service__icon__two">
 							<img src="assets/images/service/icon4.png" alt="">
 						</div>
-						<h2> <a href="service-details.html"> Shipping Worldwide </a> </h2>
-						<p>Suspendisse natoque elit in eget <br>
-							amet volutpat, est. Integer </p>
+						<h2> <a href="service-details.html"> Flatbeds </a> </h2>
+						<p>Perfect for oversized or heavy loads. <br> </p>
 							<div class="st__service__btn">
 								<a href="#"> <i class="bi bi-arrow-right"></i> </a>
 							</div>
@@ -113,9 +109,8 @@
 						<div class="st__service__icon__two">
 							<img src="assets/images/service/icon5.png" alt="">
 						</div>
-						<h2> <a href="service-details.html"> Real-Time Tracking </a> </h2>
-						<p>Suspendisse natoque elit in eget <br>
-							amet volutpat, est. Integer </p>
+						<h2> <a href="service-details.html"> Dry Vans </a> </h2>
+						<p>Ideal for standard freight that needs to stay dry and secure. <br> </p>
 							<div class="st__service__btn">
 								<a href="#"> <i class="bi bi-arrow-right"></i> </a>
 							</div>
@@ -131,9 +126,8 @@
 						<div class="st__service__icon__two">
 							<img src="assets/images/service/icon6.png" alt="">
 						</div>
-						<h2> <a href="service-details.html"> Other Solution freight </a> </h2>
-						<p>Suspendisse natoque elit in eget <br>
-							amet volutpat, est. Integer </p>
+						<h2> <a href="service-details.html"> Reefers </a> </h2>
+						<p>For temperature-sensitive cargo requiring controlled environments. <br>  </p>
 							<div class="st__service__btn">
 								<a href="#"> <i class="bi bi-arrow-right"></i> </a>
 							</div>
@@ -144,90 +138,68 @@
 	</div>
 </div>
 <!-- ST Pricing Area -->
-<div class="st-pricing-area pt-100 pb-100">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="st__section__title mb-50 text-center wow fadeInUp">
-					<h5> Pricing & Plans </h5>
-					<span class="circle"></span>
-					<h1>Effective & Affordable Plans</h1>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6">
-				<div class="st__pricing__box wow fadeInUpBig">
-					<div class="st__pricing__content">
-						<h4>Basic Plan</h4>
-						<div class="st__price">
-							<span class="st-price"> 65 </span>
-							<span class="st-dollar"> $ </span>
-							<span class="st-month">/ Per Month</span>
-						</div>
-					</div>
-					<div class="st__pricing__body">
-						<ul>
-							<li> 1 warehouse </li>
-							<li> Custom business rules </li>
-							<li> Real-time rate shopping </li>
-							<li> 100 freight shipments </li>
-							<li> Any time 24/7 hour support </li>
-						</ul>
-					</div>
-					<div class="st__pricing__btn mt-40">
-						<a href="#"> Order Now </a>
-					</div>
-				</div>
-			</div>			
-			<div class="col-lg-4 col-md-6">
-				<div class="st__pricing__box wow fadeInUpBig">
-					<div class="st__pricing__content">
-						<h4>Standard Plan</h4>
-						<div class="st__price">
-							<span class="st-price"> 79 </span>
-							<span class="st-dollar"> $ </span>
-							<span class="st-month">/ Per Month</span>
-						</div>
-					</div>
-					<div class="st__pricing__body">
-						<ul>
-							<li> 1 warehouse </li>
-							<li> Custom business rules </li>
-							<li> Real-time rate shopping </li>
-							<li> 100 freight shipments </li>
-							<li> Any time 24/7 hour support </li>
-						</ul>
-					</div>
-					<div class="st__pricing__btn mt-40">
-						<a href="#"> Order Now </a>
-					</div>
-				</div>
-			</div>			
-			<div class="col-lg-4 col-md-6">
-				<div class="st__pricing__box wow fadeInUpBig">
-					<div class="st__pricing__content">
-						<h4>Premium Plan</h4>
-						<div class="st__price">
-							<span class="st-price"> 93 </span>
-							<span class="st-dollar"> $ </span>
-							<span class="st-month">/ Per Month</span>
-						</div>
-					</div>
-					<div class="st__pricing__body">
-						<ul>
-							<li> 1 warehouse </li>
-							<li> Custom business rules </li>
-							<li> Real-time rate shopping </li>
-							<li> 100 freight shipments </li>
-							<li> Any time 24/7 hour support </li>
-						</ul>
-					</div>
-					<div class="st__pricing__btn mt-40">
-						<a href="#"> Order Now </a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+<div class="st-pricing-area pb-100">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="st__section__title mb-50 text-center wow fadeInUp">
+          <h5> Pricing & Plans for Truck Dispatch Services </h5>
+          <span class="circle"></span>
+          <h1>Effective & Affordable Plans</h1>
+          <p>
+            <strong>Rate:</strong> $250-$300 weekly, based on truck type. <br>
+            <strong>Percentage-Based:</strong> As low as 5%, varies by truck type. <br> (Rates are negotiable depending upon the fleet size and service requirements).
+          </p>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="st__pricing__box wow fadeInUpBig">
+          <div class="st__pricing__content">
+            <h4>Non-semi Plan</h4>
+            <div class="st__price">
+              <span class="st-price"> 250 </span>
+              <span class="st-dollar"> $ </span>
+              <span class="st-month">/ Weekely or 8%</span>
+            </div>
+          </div>
+          <div class="st__pricing__body">
+            <ul>
+              <li> Box truck </li>
+              <li> Flatbed / Hotshot 26 ft - 38 ft </li>
+              <!-- <li> Real-time rate shopping </li><li> 100 freight shipments </li><li> Any time 24/7 hour support </li> -->
+            </ul>
+          </div>
+          <div class="st__pricing__btn mt-40">
+            <a href="#"> Order Now </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="st__pricing__box wow fadeInUpBig">
+          <div class="st__pricing__content">
+            <h4>Semi Plan</h4>
+            <div class="st__price">
+              <span class="st-price"> 300 </span>
+              <span class="st-dollar"> $ </span>
+              <span class="st-month">/ Weekly or 5%</span>
+            </div>
+          </div>
+          <div class="st__pricing__body">
+            <ul>
+              <li> Reefer / Dry van </li>
+              <li> Flat bed hotshot 38 ft - 53 ft </li>
+              <li> Poweronly </li>
+              <!-- <li> 100 freight shipments </li><li> Any time 24/7 hour support </li> -->
+            </ul>
+          </div>
+          <div class="st__pricing__btn mt-40">
+            <a href="#"> Order Now </a>
+          </div>
+        </div>
+      </div>
+      <!-- <div class="col-lg-4 col-md-6"><div class="st__pricing__box wow fadeInUpBig"><div class="st__pricing__content"><h4>Premium Plan</h4><div class="st__price"><span class="st-price"> 93 </span><span class="st-dollar"> $ </span><span class="st-month">/ Per Month</span></div></div><div class="st__pricing__body"><ul><li> 1 warehouse </li><li> Custom business rules </li><li> Real-time rate shopping </li><li> 100 freight shipments </li><li> Any time 24/7 hour support </li></ul></div><div class="st__pricing__btn mt-40"><a href="#"> Order Now </a></div></div></div> -->
+    </div>
+  </div>
 </div>
 <!-- ST Appointment Area -->
 <div class="st-appointment-area style2 pt-100 p-relative" style="background: url(assets/images/appointment/bg.jpg);background-repeat: no-repeat;background-position: center center;background-size: cover;">

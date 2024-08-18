@@ -38,7 +38,7 @@
 							</div>
 							<div class="st__cinfobox_content">
 								<h5> Address </h5>
-								<span> 7515 Carriage Court, Coachella, CA, 92236 USA </span>
+								<span>  30 N Gould ST, Sheridan , WY 82801 </span>
 							</div>
 						</div>
 						<div class="st__cinfobox">
@@ -47,7 +47,7 @@
 							</div>
 							<div class="st__cinfobox_content">
 								<h5> Contact Number </h5>
-								<span> (+6656) 1598596969 </span>
+								<span>  (872) 266-3183  </span>
 							</div>
 						</div>
 						<div class="st__cinfobox">
@@ -56,7 +56,7 @@
 							</div>
 							<div class="st__cinfobox_content">
 								<h5> Email Us </h5>
-								<span> Example@gmail.com</span>
+								<span> info@transtroop.com</span>
 							</div>
 						</div>
 					</div>					

@@ -176,7 +176,7 @@
 												<li><a href="blog-details.html">Blog Details</a></li>
 											</ul>
 										</li> -->
-										<li><a href="{{ route('contact') }}"> Contacts <i class="bi bi-chevron-down"></i> </a>
+										<li><a href="{{ route('contact') }}"> Contact <i class="bi bi-chevron-down"></i> </a>
 											<ul class="sub__menu">
 												<li><a href="{{ route('contact') }}">Contact</a></li>
 												<!-- <li><a href="contact-us-dark.html">Contact Dark</a></li> -->
@@ -193,7 +193,7 @@
 										</div>
 										<div class="st-contact-content">
 											<span>Emergency</span>
-											(872) 266-3183, 315-227-9247
+											(872) 266-3183
 										</div>
 									</div>
 								</div>
@@ -227,7 +227,7 @@
 					<a href="#"> <img src="assets/images/logo/ts_logo.png" alt=""> </a>
 				</div>
 				<div class="st__footer__text">
-					<p>Feugiat a ligula rutrum luctus primis ultrice nteger congue magna at pretium purus a pretium ligula rutrum and luctus</p>
+					<p>Ready to start hauling more loads and maximizing your profits? Getting started with TransTroop is easy</p>
 				</div>
 				<div class="st__social__icon">
 					<h2>Social Info</h2>
@@ -242,11 +242,11 @@
 					<h2> Our Navigation </h2>
 				</div>
 				<div class="st__footer__link">
-					<a href="#"> <i class="bi bi-chevron-double-right"></i> Airplane Fright </a>
+					<!-- <a href="#"> <i class="bi bi-chevron-double-right"></i> Airplane Fright </a>
 					<a href="#"> <i class="bi bi-chevron-double-right"></i> About Portx </a>
 					<a href="#"> <i class="bi bi-chevron-double-right"></i> Meet The Team </a>
 					<a href="#"> <i class="bi bi-chevron-double-right"></i> News & Media </a>
-					<a href="#"> <i class="bi bi-chevron-double-right"></i> Our Projects </a>
+					<a href="#"> <i class="bi bi-chevron-double-right"></i> Our Projects </a> -->
 				</div>
 			</div>			
 			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
@@ -254,17 +254,17 @@
 					<h2> Our Service </h2>
 				</div>
 				<div class="st__footer__link">
-					<a href="#"> <i class="bi bi-chevron-double-right"></i> Reliability & Punctuality </a>
+					<!-- <a href="#"> <i class="bi bi-chevron-double-right"></i> Reliability & Punctuality </a>
 					<a href="#"> <i class="bi bi-chevron-double-right"></i> Trusted Franchise </a>
 					<a href="#"> <i class="bi bi-chevron-double-right"></i> Warehoues Storage </a>
 					<a href="#"> <i class="bi bi-chevron-double-right"></i> Real Time Tracking </a>
-					<a href="#"> <i class="bi bi-chevron-double-right"></i> Transparent Pricing </a>
+					<a href="#"> <i class="bi bi-chevron-double-right"></i> Transparent Pricing </a> -->
 				</div>
 			</div>			
 			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__title">
 					<h2> Newsletter </h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
+					<p>Partnering with a trusted truck dispatch company like TrasnTroop ensures that your trucking business operates smoothly and efficiently.</p>
 				</div>
 				<div class="st__footer__subscribe__form p-relative mt-45">
 					<input type="email" name="email" placeholder="Email Address">

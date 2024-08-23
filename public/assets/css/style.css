@@ -79,7 +79,7 @@ Text Domain: Logistcwr
 }
 
 .ts-logo {
-    height: 24px;
+    height: 24px !important;
 }
 
 /* 01. Header Top Area */

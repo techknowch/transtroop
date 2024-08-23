@@ -126,7 +126,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-2 col-md-6 col-sm-2">
 						<div class="st-header-logo">
-							<a href="{{ route('home') }}"><img src="assets/images/logo/ts_logo.jpeg" alt="logo not found"></a>
+							<a href="{{ route('home') }}"><img src="assets/images/logo/ts_logo.jpeg" class="ts-logo" alt="logo not found"></a>
 						</div>
 					</div>
 					<div class="col-lg-10 col-md-6 col-sm-10">
@@ -224,7 +224,7 @@
 		<div class="row ft_borer">
 			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__logo">
-					<a href="#"> <img src="assets/images/logo/ts_logo.jpeg" alt=""> </a>
+					<a href="#"> <img src="assets/images/logo/ts_logo.jpeg" class="ts-logo" alt=""> </a>
 				</div>
 				<div class="st__footer__text">
 					<p>Ready to start hauling more loads and maximizing your profits? Getting started with TransTroop is easy</p>

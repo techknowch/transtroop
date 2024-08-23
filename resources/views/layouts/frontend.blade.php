@@ -41,13 +41,13 @@
 <body>
 
 <!-- pre loader area start -->
-<div id="loading">
+<!-- <div id="loading">
 	<div id="loading-center">
 	<div id="loading-center-absolute">
-		<!-- loading content here -->
+		
 		<div class="preloader__content text-center">
 			<div class="preloader__logo">
-				<img src="assets/images/logo/ts_logo.png" alt="">
+				<img src="assets/images/logo/ts_logo.jpeg" alt="">
 			</div>
 			<div id="st-loading-bar" class="preloader__bar">
 				<div id="st-loading-line" class="preloader__bar-inner"></div>
@@ -55,7 +55,7 @@
 		</div>
 	</div>
 	</div>  
-</div>
+</div> -->
 <!-- pre loader area end -->
 
 <!-- Header Top Area -->
@@ -92,7 +92,7 @@
 			<div class="offcanvas__top d-flex justify-content-between align-items-center">
 				<div class="offcanvas__logo">
 					<a href="{{ route('home') }}">
-						<img src="assets/images/logo/ts_logo.png" alt="logo not found">
+						<img src="assets/images/logo/ts_logo.jpeg" alt="logo not found">
 					</a>
 				</div>
 				<div class="offcanvas__close">
@@ -126,7 +126,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-2 col-md-6 col-sm-2">
 						<div class="st-header-logo">
-							<a href="{{ route('home') }}"><img src="assets/images/logo/ts_logo.png" alt="logo not found"></a>
+							<a href="{{ route('home') }}"><img src="assets/images/logo/ts_logo.jpeg" alt="logo not found"></a>
 						</div>
 					</div>
 					<div class="col-lg-10 col-md-6 col-sm-10">
@@ -224,7 +224,7 @@
 		<div class="row ft_borer">
 			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__logo">
-					<a href="#"> <img src="assets/images/logo/ts_logo.png" alt=""> </a>
+					<a href="#"> <img src="assets/images/logo/ts_logo.jpeg" alt=""> </a>
 				</div>
 				<div class="st__footer__text">
 					<p>Ready to start hauling more loads and maximizing your profits? Getting started with TransTroop is easy</p>

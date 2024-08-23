@@ -92,7 +92,7 @@
 			<div class="offcanvas__top d-flex justify-content-between align-items-center">
 				<div class="offcanvas__logo">
 					<a href="{{ route('home') }}">
-						<img src="assets/images/logo/ts_logo.jpeg" alt="logo not found">
+						<img src="assets/images/logo/ts_logo.jpeg" class="ts-logo" alt="logo not found">
 					</a>
 				</div>
 				<div class="offcanvas__close">
